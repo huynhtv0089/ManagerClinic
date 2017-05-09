@@ -1,0 +1,15 @@
+C:\Users\Constantine\Documents\Visual Studio 2012\frmQLPHONGKHAM\DTO\bin\Debug\DTO.dll
+C:\Users\Constantine\Documents\Visual Studio 2012\frmQLPHONGKHAM\DTO\bin\Debug\DTO.pdb
+C:\Users\Constantine\Documents\Visual Studio 2012\frmQLPHONGKHAM\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Constantine\Documents\Visual Studio 2012\frmQLPHONGKHAM\DTO\obj\Debug\DTO.dll
+C:\Users\Constantine\Documents\Visual Studio 2012\frmQLPHONGKHAM\DTO\obj\Debug\DTO.pdb
+C:\Users\root\Documents\Visual Studio 2012\Projects\frmQLPHONGKHAM\DTO\bin\Debug\DTO.dll
+C:\Users\root\Documents\Visual Studio 2012\Projects\frmQLPHONGKHAM\DTO\bin\Debug\DTO.pdb
+C:\Users\root\Documents\Visual Studio 2012\Projects\frmQLPHONGKHAM\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2012\Projects\frmQLPHONGKHAM\DTO\obj\Debug\DTO.dll
+C:\Users\root\Documents\Visual Studio 2012\Projects\frmQLPHONGKHAM\DTO\obj\Debug\DTO.pdb
+C:\Users\Home\Documents\Visual Studio 2012\Projects\frmQLPHONGKHAM\DTO\bin\Debug\DTO.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\frmQLPHONGKHAM\DTO\bin\Debug\DTO.pdb
+C:\Users\Home\Documents\Visual Studio 2012\Projects\frmQLPHONGKHAM\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2012\Projects\frmQLPHONGKHAM\DTO\obj\Debug\DTO.dll
+C:\Users\Home\Documents\Visual Studio 2012\Projects\frmQLPHONGKHAM\DTO\obj\Debug\DTO.pdb
